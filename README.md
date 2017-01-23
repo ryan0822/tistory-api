@@ -1,4 +1,5 @@
 # Tistory API for node.js
+[![NPM](https://nodei.co/npm/tistory-api.png)](https://nodei.co/npm/tistory-api/)
 
 **Tistory API**는 nodejs 환경에서 티스토리 블로그 API를 쉽게 사용할 수 있도록 제공합니다.
 
