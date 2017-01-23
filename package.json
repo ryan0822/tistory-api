@@ -28,7 +28,6 @@
     "npm": ">=3.x"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.0.1",
     "request": "^2.79.0"
   },
   "devDependencies": {
