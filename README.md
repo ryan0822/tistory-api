@@ -66,5 +66,4 @@ npm run test
 ```
 
 ## License
-[Apache-2.0](https://opensource.org/licenses/Apache-2.0)  
-Copyright (c) 2016, Ryan Yoon
+[MIT](https://opensource.org/licenses/MIT)
