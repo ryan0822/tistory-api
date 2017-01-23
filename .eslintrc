@@ -1,6 +1,6 @@
 {
   "parser": "babel-eslint",
-  "extends": "airbnb",
+  "extends": "airbnb-base",
   "env": {
     "browser": true,
     "mocha": true,
@@ -26,6 +26,7 @@
     "flowtype",
     "flowtype-errors",
     "promise",
-    "compat"
+    "compat",
+    "import"
   ]
 }
