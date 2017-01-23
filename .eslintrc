@@ -1,0 +1,31 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "mocha": true,
+    "node": true
+  },
+  "rules": {
+    "arrow-parens": ["off"],
+    "compat/compat": 2,
+    "consistent-return": "off",
+    "comma-dangle": "off",
+    "generator-star-spacing": "off",
+    "no-console": 0,
+    "no-use-before-define": "off",
+    "promise/param-names": 2,
+    "promise/always-return": 0,
+    "promise/catch-or-return": 0,
+    "promise/no-native": 0,
+    "flowtype-errors/show-errors": 2,
+    "class-methods-use-this": 0,
+    "no-bitwise": 0,
+  },
+  "plugins": [
+    "flowtype",
+    "flowtype-errors",
+    "promise",
+    "compat"
+  ]
+}
