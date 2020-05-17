@@ -53,7 +53,7 @@ tistory.post.list({
 모든 `API`에 대한 정의는 [`src/api.js`](./src/api.js) 파일을 참고 하면 됩니다. 그리고 모든 메소드는 `Promise` 객체를 반환하게 됩니다.
 
 > API 응답을 포함한 더 자세한 사항은 공식 Tistory API에서 확인하세요.  
-> [http://www.tistory.com/guide/api/index](http://www.tistory.com/guide/api/index)
+> [https://tistory.github.io/](https://tistory.github.io/)
 
 ## Build
 ```bash
